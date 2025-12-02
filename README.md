@@ -1,5 +1,5 @@
 # html_css
-CURSO EM VÍDEO
+Exercícios de HTML e CSS
 
 <a href="https://deathshift.github.io/html_css/Quiz para programadores.html">Acessar Quiz</a>
 
